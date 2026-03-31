@@ -33,7 +33,7 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 | Jan 2026 | 🐧 Linux | Terminal navigation and file permissions | Done ✅ |
 | Jan 2026 | 🐙 Git/GitHub | Version control and repository setup | Done ✅ ||
 | Feb 2026 | 📦 LXC/LXD | Containers and storage on Rocky Linux | Done ✅ |
-| March 2026 | 🐳 Docker | Dockerfile, Registry, Node.js, etc. |In Progress 🗓️ |
+| April 2026 | 🐳 Docker | Dockerfile, Registry, Node.js, etc. |In Progress 🗓️ |
 | April 2026 | ☸️ Kubernetes | Kubernetes 2.0: Cluster and Applications | Planned 🗓️ |
 | April 2026 | 🏗️ CI/CD |GiHub and GitHub Actions: Workflows e Automação | Planned 🗓️ |
 | April 2026 | 🏗️ CI/CD | Jenkins: Pipelines, Multi-branch e Jenkinsfile | Planned 🗓️ |
