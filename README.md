@@ -28,8 +28,8 @@ This repository is a central hub for my technical evolution in the **DevOps** tr
 
 ### 📝 Study Log (Progress Tracking)
 
-| Date | Category | Lab / Activity | Status |
-| :--- | :--- | :--- | :--- |
+| Date | Category | Status |
+| :--- | :--- | :--- |
 | Jan 2026 | 🚀 Introduction to DevOps | Done ✅ |
 | Jan 2026 | 🐧 Linux | Done ✅ |
 | Jan 2026 | 🐙 Git/GitHub | Done ✅ ||
