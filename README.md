@@ -32,25 +32,25 @@ This repository is a central hub for my technical evolution in the **DevOps** tr
 | :--- | :--- | :--- |:--- |
 | 1 | Jan 2026 | 🚀 Introduction to DevOps | Done ✅ |
 | 2 | Jan 2026 | 🐧 Linux | Done ✅ |
-| Jan 2026 | 🐙 Git/GitHub | Done ✅ ||
-| April 2026 | 🐳 Docker 2.0 |In Progress 🗓️  |
-| April 2026 | ☸️ Kubernetes 2.0 - Applications | Planned 🗓️  |
-| April 2026 | 🏗️ GitHub e GitHub Actions | Planned 🗓️  |
-| May 2026 | 🏗️ Jenkins | Planned 🗓️  |
-| May 2026 | 📊 Metrics & Monitoring with Prometheus | Planned 🗓️  |
-| May 2026 | 🪵 Logging with Grafana Loki | Planned 🗓️  |
-| May 2026 | 🕵️ Tracing with Jaeger | Planned 🗓️  |
-| June 2026 | 🏗️ Terraform | Planned 🗓️  |
-| June 2026 | 🤖 Ansible | Planned 🗓️  |
-| June 2026 | ☁️ DevOps on AWS | Planned 🗓️  |
-| June 2026 | ☸️ Kubernetes 2.0 - Administration | Planned 🗓️  |
-| June 2026 | ☁️ DevOps on Azure | Planned 🗓️  |
-| June 2026 | 🦊 GitOps with ArgoCD | Planned 🗓️  |
-| August 2026 | 📈 OpenTelemetry | Planned 🗓️  |
-| August 2026 | ☁️ DevOps on GCP | Planned 🗓️  |
-| August 2026 | 🧠 Artificial Intelligence | Planned 🗓️  |
-| August 2026 | 📊 Promethe & Grafana | Planned 🗓️  |
-| August 2026 | 🕸️ Service Mesh & Istio | Planned 🗓️  |
+| 3 | Jan 2026 | 🐙 Git/GitHub | Done ✅ ||
+| 4 | April 2026 | 🐳 Docker 2.0 |In Progress 🗓️  |
+| 5 | April 2026 | ☸️ Kubernetes 2.0 - Applications | Planned 🗓️  |
+| 6 | April 2026 | 🏗️ GitHub e GitHub Actions | Planned 🗓️  |
+| 7 | May 2026 | 🏗️ Jenkins | Planned 🗓️  |
+| 8 | May 2026 | 📊 Metrics & Monitoring with Prometheus | Planned 🗓️  |
+| 9 | May 2026 | 🪵 Logging with Grafana Loki | Planned 🗓️  |
+| 10 |May 2026 | 🕵️ Tracing with Jaeger | Planned 🗓️  |
+| 11 |June 2026 | 🏗️ Terraform | Planned 🗓️  |
+| 12 | June 2026 | 🤖 Ansible | Planned 🗓️  |
+| 13 | June 2026 | ☁️ DevOps on AWS | Planned 🗓️  |
+| 14 |June 2026 | ☸️ Kubernetes 2.0 - Administration | Planned 🗓️  |
+| 15 |June 2026 | ☁️ DevOps on Azure | Planned 🗓️  |
+| 16 |June 2026 | 🦊 GitOps with ArgoCD | Planned 🗓️  |
+| 17 |August 2026 | 📈 OpenTelemetry | Planned 🗓️  |
+| 18 |August 2026 | ☁️ DevOps on GCP | Planned 🗓️  |
+| 19 |August 2026 | 🧠 Artificial Intelligence | Planned 🗓️  |
+| 20 |August 2026 | 📊 Promethe & Grafana | Planned 🗓️  |
+| 21 |August 2026 | 🕸️ Service Mesh & Istio | Planned 🗓️  |
 
 ---
 
