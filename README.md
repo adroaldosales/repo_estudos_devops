@@ -37,7 +37,7 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 | April 2026 | ☸️ Kubernetes 2.0 - Applications | Planned 🗓️  |
 | April 2026 | 🏗️ GitHub e GitHub Actions | Planned 🗓️  |
 | May 2026 | 🏗️ Jenkins | Planned 🗓️  |
-| May 2026 | 📊 MMetrics & Monitoring with Prometheus | Planned 🗓️  |
+| May 2026 | 📊 Metrics & Monitoring with Prometheus | Planned 🗓️  |
 | May 2026 | 🪵 Logging with Grafana Loki | Planned 🗓️  |
 | May 2026 | 🕵️ Tracing with Jaeger | Planned 🗓️  |
 | June 2026 | 🏗️ Terraform | Planned 🗓️  |
