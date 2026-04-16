@@ -1,4 +1,4 @@
-# 🚀 DevOps Journey - Hands-on Labs 2026	
+# 🚀  - Hands-on Labs 2026	
 
 This repository is a central hub for my technical evolution in the **DevOps Pro** track. Here, I store infrastructure-as-code scripts, containerization strategies, and orchestration labs.
 
@@ -30,23 +30,27 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 
 | Date | Category | Lab / Activity | Status |
 | :--- | :--- | :--- | :--- |
-| Jan 2026 | 🐧 Linux | Terminal navigation and file permissions | Done ✅ |
-| Jan 2026 | 🐙 Git/GitHub | Version control and repository setup | Done ✅ ||
-| Feb 2026 | 📦 LXC/LXD | Containers and storage on Rocky Linux | Done ✅ |
-| April 2026 | 🐳 Docker | Dockerfile, Registry, Node.js, etc. |In Progress 🗓️ |
-| April 2026 | ☸️ Kubernetes | Kubernetes 2.0: Cluster and Applications | Planned 🗓️ |
-| April 2026 | 🏗️ CI/CD |GiHub and GitHub Actions: Workflows e Automação | Planned 🗓️ |
-| April 2026 | 🏗️ CI/CD | Jenkins: Pipelines, Multi-branch e Jenkinsfile | Planned 🗓️ |
-| April 2026 | 📊 Monitoring | Prometheus: Observability, Metrics and AlertManager | Planned 🗓️ |
-| May 2026 | 🪵 Logging, | Logs com Grafana Loki: LogQL e Retenção, etc | Planned 🗓️ |
-| May 2026 | 🕵️ Tracing | Tracing com Jaeger: Distributed Tracing e Spans | Planned 🗓️ |
-| May 2026 | 🏗️ IaC | Terraform: Infrastructure as Code e State Management | Planned 🗓️ |
-| June 2026 | 🤖 Ansible | Configuration Management and Automation | Planned 🗓️ |
-| June 2026 | ☁️ AWS | DevOps on AWS: Infrastructure and CI/CD | Planned 🗓️ |
-| July 2026 | ☸️ Kubernetes | Kubernetes 2.0: Advanced Administration | Planned 🗓️ |
-| August 2026 | ☁️ Azure | DevOps no Azure | Planned 🗓️ |
-| August 2026 | 🦊 GitOps | GitOps com ArgoCD | Planned 🗓️ |
-| August 2026 | 📈 Observability | OpenTelemetry | Planned 🗓️ |
+| Jan 2026 | 🚀 Introduction to DevOps | Done ✅ |
+| Jan 2026 | 🐧 Linux | Done ✅ |
+| Jan 2026 | 🐙 Git/GitHub | Done ✅ ||
+| April 2026 | 🐳 Docker 2.0 |In Progress 🗓️  |
+| April 2026 | ☸️ Kubernetes 2.0 - Applications | Planned 🗓️  |
+| April 2026 | 🏗️ GitHub e GitHub Actions | Planned 🗓️  |
+| May 2026 | 🏗️ Jenkins | Planned 🗓️  |
+| May 2026 | 📊 MMetrics & Monitoring with Prometheus | Planned 🗓️  |
+| May 2026 | 🪵 Logging with Grafana Loki | Planned 🗓️  |
+| May 2026 | 🕵️ Tracing with Jaeger | Planned 🗓️  |
+| June 2026 | 🏗️ Terraform | Planned 🗓️  |
+| June 2026 | 🤖 Ansible | Planned 🗓️  |
+| June 2026 | ☁️ DevOps on AWS | Planned 🗓️  |
+| June 2026 | ☸️ Kubernetes 2.0 - Administration | Planned 🗓️  |
+| June 2026 | ☁️ DevOps on Azure | Planned 🗓️  |
+| June 2026 | 🦊 GitOps with ArgoCD | Planned 🗓️  |
+| August 2026 | 📈 OpenTelemetry | Planned 🗓️  |
+| August 2026 | ☁️ DevOps on GCP | Planned 🗓️  |
+| August 2026 | 🧠 Artificial Intelligence | Planned 🗓️  |
+| August 2026 | 📊 Promethe & Grafana | Planned 🗓️  |
+| August 2026 | 🕸️ Service Mesh & Istio | Planned 🗓️  |
 
 ---
 
