@@ -26,7 +26,7 @@ This repository is a central hub for my technical evolution in the **DevOps** tr
 
 ---
 
-### 📝 Study Log (Progress Tracking)
+### 📝 Study Log
 
 | Date | Category | Status |
 | :--- | :--- | :--- |
